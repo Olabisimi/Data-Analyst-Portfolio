@@ -41,7 +41,7 @@
 ---
 
 ### Google Analytics Capstone Project
-[Project 1 Title](/sample_page)
+[Coming Soon](/sample_page)
 <img src="images/Google Data Analytics Capstone.JPG?raw=true"/>
 
 
