@@ -30,7 +30,7 @@
 
 ### TABLEAU
 
-- [Walmart Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/WALMARTSALESANALYSIS_16929189393410/YRWISESLSPRFVIZ))
+- [Walmart Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/WALMARTSALESANALYSIS_16929189393410/YRWISESLSPRFVIZ)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
