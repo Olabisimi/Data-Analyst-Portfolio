@@ -34,9 +34,9 @@
 
 ### TABLEAU
 
-- [Walmart Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/WALMARTSALESANALYSIS_16929189393410/YRWISESLSPRFVIZ)
+- ##[Walmart Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/WALMARTSALESANALYSIS_16929189393410/YRWISESLSPRFVIZ)
 <img src="images/Walmart Logo.jpg?raw=true"/>
-- [IMDB Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/IMDBANALYSIS_16929191457650/TOP10DIRBYGROSS)
+- ##[IMDB Analysis](https://public.tableau.com/app/profile/mzwandile.september4771/viz/IMDBANALYSIS_16929191457650/TOP10DIRBYGROSS)
 <img src="images/IMDB logo.JPG?raw=true"/>
 
 ---
