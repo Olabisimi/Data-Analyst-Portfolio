@@ -1,8 +1,6 @@
 title: Daniel M. September # your name (or website title) here
-logo: "/images/Linkedin Picture.png?raw=true" 
-resize_settings:
-  width: 100
-  height: 100
+logo: "/images/Linkedin Picture.png?raw=true" resize_settings: width: 100 height: 100 
+
 
 description: Data Professional with 4 years experience in Transportation and Logistics and recently completed my Google Data Analytics certificate. Experienced in data analytics, data visualization, report generation, project management with expertise in Excel, Postgresql, SPSS, Tableau, and PowerBI.
 
