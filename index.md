@@ -7,7 +7,7 @@
 ##Coming Soon
 
 [Coffee Sales Dashboard](https://1drv.ms/x/s!AtCkvgEyMyGegpUNCzWqoRFhe0qNzQ?e=4gixrE&nav=MTVfezQzMDlEMEFGLTYyODAtNDlGNC1CQzNFLThDNjVFOTAyRDhDMn0)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Coffee.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
