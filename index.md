@@ -6,7 +6,7 @@
 
 ##Coming Soon
 
-[Cofee Sales Dashboard]([/sample_page](https://1drv.ms/x/s!AtCkvgEyMyGegpUNCzWqoRFhe0qNzQ?e=4gixrE&nav=MTVfezQzMDlEMEFGLTYyODAtNDlGNC1CQzNFLThDNjVFOTAyRDhDMn0)
+[Coffee Sales Dashboard](https://1drv.ms/x/s!AtCkvgEyMyGegpUNCzWqoRFhe0qNzQ?e=4gixrE&nav=MTVfezQzMDlEMEFGLTYyODAtNDlGNC1CQzNFLThDNjVFOTAyRDhDMn0)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
