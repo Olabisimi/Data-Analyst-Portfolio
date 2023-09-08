@@ -4,7 +4,6 @@
 
 ### Excel
 
-##Coming Soon
 
 [Coffee Sales Dashboard](https://1drv.ms/x/s!AtCkvgEyMyGegpUNCzWqoRFhe0qNzQ?e=4gixrE&nav=MTVfezQzMDlEMEFGLTYyODAtNDlGNC1CQzNFLThDNjVFOTAyRDhDMn0)
 <img src="images/Coffee.JPG?raw=true"/>
